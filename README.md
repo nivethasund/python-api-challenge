@@ -16,5 +16,5 @@ In this assignment, I use my knowledge of APIs to analyze data extracted from th
 
 Please note that the images of my VacationPy maps, plotted with hvplot, do not appear in the notebook preview on GitHub. So for ease of viewing, I've dropped screenshots of my results below
 ----
-![Screenshot](City Map.png)
-![Screenshot](Hotel Map.png)
+![Screenshot](City_Map.png)
+![Screenshot](Hotel_Map.png)
