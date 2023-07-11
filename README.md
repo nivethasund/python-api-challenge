@@ -16,6 +16,10 @@ In this assignment, I use my knowledge of APIs to analyze data extracted from th
 
 Please note that the images of my VacationPy maps, plotted with hvplot, do not appear in the notebook preview on GitHub. So for ease of viewing, I've dropped screenshots of my results below
 ----
-*City Map*
+### City Map
 
 <img src = "https://github.com/nivethasund/python-api-challenge/blob/main/WeatherPy/Output/City%20Map.png">
+
+### Hotel Map
+
+<img src = "https://github.com/nivethasund/python-api-challenge/blob/main/WeatherPy/Output/Hotel%20Map.png">
