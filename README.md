@@ -18,4 +18,4 @@ Please note that the images of my VacationPy maps, plotted with hvplot, do not a
 ----
 *City Map*
 
-<img src = "https://github.com/nivethasund/python-api-challenge/blob/main/City%20Map.png">
+<img src = "https://github.com/nivethasund/python-api-challenge/blob/main/WeatherPy/Output/City%20Map.png">
